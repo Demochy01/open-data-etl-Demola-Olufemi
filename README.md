@@ -4,7 +4,7 @@ This project performs an ELT workflow using the Open-Meteo API and pandas.
 
 ## Data Source
 * **Source:** Open-Meteo Public API (Weather Forecast)
-* **Location:** London, UK (51.5074, 0.1278)
+* **Location:** Lisbon, Portugal (38.7167, -9.1333)
 
 ## Transformations
 1.  **Selection and Renaming:** Columns were selected and renamed for clarity (e.g., 'time' to 'Date', 'temperature_2m_max' to 'Max_Temp_C').
